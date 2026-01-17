@@ -11,7 +11,7 @@ while cap.isOpened():
     if not success:
         break
 
-    results = model.predict(source=frame, conf=0.7, stream=True)
+    results = model.predict(source=frame, conf=0.644, stream=True)
 
     for result in results:
         annoted_frame = result.plot()
