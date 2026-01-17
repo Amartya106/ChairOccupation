@@ -1,5 +1,5 @@
 # Chair Occupation Detection
-This project uses YOLOv8 for detection of a specific chair(small dataset used). Currently it only detects an unoccupied chair in real time and in the future is intended to distinguish between occupied and unccupied chairs using the Arduino UNO Q.
+This project uses YOLOv11 for detection of a specific chair(small dataset used). Currently it only detects an unoccupied chair in real time and in the future is intended to distinguish between occupied and unccupied chairs using the Arduino UNO Q.
 
 ## Performance Metrics
 * **Accuracy:** 99.5% mAP50
