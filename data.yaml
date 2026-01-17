@@ -1,0 +1,6 @@
+path: /home/amartya/Desktop/ChairProj/Dataset
+train: images/train
+val: images/val
+
+nc: 1
+names: ['Chair_Unoccupied']
